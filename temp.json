@@ -1,0 +1,7 @@
+{'status': '', 'analysis': {'detectedVoice': 'True', 'voiceType': {'type': 'AI', 'probability': {'human': '-0.06820230185985565'
+            }
+        }, 'additionalInfo': {'emotionalTone': {'tone': 'neutral', 'confidence': 0.9965283274650574
+            }, 'language': 'English', 'matching_data': 'found'
+        }
+    }
+}

@@ -1,0 +1,8 @@
+2024-03-18 04:07:58,387 - INFO - Batch size: 128, seed: None, epochs: 20
+2024-03-18 04:07:58,387 - INFO - Evaluating model: ShallowCNN
+2024-03-18 04:07:58,387 - INFO - Input feature : lfcc
+2024-03-18 04:07:58,387 - INFO - Model kwargs  : {
+  "in_features": 1,
+  "out_dim": 1,
+  "device": "cpu"
+}

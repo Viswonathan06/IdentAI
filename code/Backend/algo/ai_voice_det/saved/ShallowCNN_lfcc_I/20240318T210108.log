@@ -1,0 +1,9 @@
+2024-03-18 21:01:08,392 - INFO - Batch size: 128, seed: None, epochs: 20
+2024-03-18 21:01:08,392 - INFO - Evaluating model: ShallowCNN
+2024-03-18 21:01:08,393 - INFO - Input feature : lfcc
+2024-03-18 21:01:08,394 - INFO - Model kwargs  : {
+  "in_features": 1,
+  "out_dim": 1,
+  "device": "cpu"
+}
+2024-03-18 21:03:28,777 - INFO - /Users/viswonathanmanoranjan/Documents/GitHub/delphinium/code/Backendalgo/ai_voice_det/saved/ShallowCNN_lfcc_I
